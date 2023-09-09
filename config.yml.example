@@ -1,12 +1,12 @@
 bot:
-  token: 1234:1234567890abcdef
+  token: 6652934531:AAGsAuRrrwbpDH9LkO4IZrnB-_IkGCyJGC0
   admin_id:
-    - 0
+    - 1904880836
     - 0
 crisp:
-  id: 
-  key: 
-  website: 
+  id: 0d0885a9-fded-4e6a-a575-763fc8afb33a
+  key: 4f1ce9b44060903887f0504dd0d57dd90b9ccf7cf55affef21385e8c84d673de
+  website: 88105d96-946b-4102-bc01-c3bc287f57c2
   msgapi: rtm
 autoreply:
   '在吗|你好' : '欢迎使用客服系统，请等待客服回复你~'
